@@ -6,6 +6,10 @@
 - :checkered_flag: I have studied Grado Superior ASIX in San Josep Obrer. 
 - :email: Contact me on jserravives@cifpfbmoll.eu or josepsv17@gmail.com
 
+### I'm familiar with:
+![Python](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png "Título alternativo")
+
+
 
 
 
