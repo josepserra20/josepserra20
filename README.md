@@ -8,15 +8,16 @@
 
 ### I'm familiar with:
 <img align="left" alt="josep | Pytohn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />
-<img align="left" alt="josep | Premiere" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png" />
-<img align="left" alt="josep | After Effects" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/788px-Adobe_After_Effects_CC_icon.svg.png" />
-<img align="left" alt="josep | Illustrator" width="26px" src="https://www.pngmart.com/files/21/AI-PNG-Image.png" />
-<img align="left" alt="Lapini | Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />
-<img align="left" alt="Lapini | Unreal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/640px-UE_Logo_Black_Centered.svg.png"/>
-<img align="left" alt="Lapini | Blender" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"/>
-<img align="left" alt="Lapini | VScode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
-<img align="left" alt="Lapini | IntelliJ" width="26px" src="https://www.seleniumacademy.net/wp-content/uploads/2021/12/intellij-idea.png"/>
-<img align="left" alt="Lapini | IntelliJ" width="26px" src="https://img.icons8.com/color/480/mongodb.png"/>
+<img align="left" alt="josep | React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />
+<img align="left" alt="josep | PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />
+<img align="left" alt="josep | HTML" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbyqJR-426v72Ejr87Vf_h2Wqzg5LYmX69w&usqp=CAU" />
+<img align="left" alt="josep | JS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLSpwzZT-chc2GLCrIJ8weQdfLEZvLv6Tfg&usqp=CAU" />
+<img align="left" alt="josep | Java" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvvCG12y4w7TrqfuSiWulfSskEz53Q8xhNmw&usqp=CAU"/>
+<img align="left" alt="josep | MongoDB" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ujkq8h_-8_v77Nfc4SHP8lDu-4D7JK9DDA&usqp=CAU"/>
+<img align="left" alt="josep | VScode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
+<img align="left" alt="josep | IntelliJ" width="26px" src="https://www.seleniumacademy.net/wp-content/uploads/2021/12/intellij-idea.png"/>
+<img align="left" alt="josep | IntelliJ" width="26px" src="https://img.icons8.com/color/480/mongodb.png"/>
+<img align="left" alt="josep | IntelliJ" width="26px" src="https://www.seleniumacademy.net/wp-content/uploads/2021/12/intellij-idea.png"/
 
 
 
