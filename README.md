@@ -7,7 +7,7 @@
 - :email: Contact me on jserravives@cifpfbmoll.eu or josepsv17@gmail.com
 
 ### I'm familiar with:
-![Python](= "Título alternativo")
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg= "Título alternativo")
 
 
 
