@@ -2,6 +2,10 @@
 
 I'm Josep Antoni Serra Vives 
 
+- I'm currently studying __web development app__ in [CIFP Francesc de Borja Moll](https://www.cifpfbmoll.eu/)
+
+
+
 <!--
 **josepserra20/josepserra20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
