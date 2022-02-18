@@ -2,7 +2,10 @@
 
 I'm Josep Antoni Serra Vives 
 
-- I'm currently studying __web development app__ in [CIFP Francesc de Borja Moll](https://www.cifpfbmoll.eu/)
+- :school: I'm currently studying __web development app__ in [CIFP Francesc de Borja Moll](https://www.cifpfbmoll.eu/). 
+- :checkered_flag: I have studied Grado Superiro ASIX in Snat Josep Obrer. 
+
+
 
 
 
