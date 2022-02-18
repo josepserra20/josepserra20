@@ -12,7 +12,7 @@
 <img align="left" alt="josep | PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />
 <img align="left" alt="josep | HTML" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbyqJR-426v72Ejr87Vf_h2Wqzg5LYmX69w&usqp=CAU" />
 <img align="left" alt="josep | JS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLSpwzZT-chc2GLCrIJ8weQdfLEZvLv6Tfg&usqp=CAU" />
-<img align="left" alt="josep | Java" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvvCG12y4w7TrqfuSiWulfSskEz53Q8xhNmw&usqp=CAU"/>
+<img align="left" alt="josep | Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 <img align="left" alt="josep | MongoDB" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ujkq8h_-8_v77Nfc4SHP8lDu-4D7JK9DDA&usqp=CAU"/>
 <img align="left" alt="josep | VScode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" alt="josep | IntelliJ" width="26px" src="https://www.seleniumacademy.net/wp-content/uploads/2021/12/intellij-idea.png"/>
