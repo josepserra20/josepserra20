@@ -3,7 +3,7 @@
 ## I'm Josep Antoni Serra Vives 
 
 - :school: I'm currently studying __web development app__ in [CIFP Francesc de Borja Moll](https://www.cifpfbmoll.eu/). 
-- :checkered_flag: I have studied Grado Superior ASIX in San Josep Obrer. 
+- :checkered_flag: I have studied Grado Superior ASIX in Sant Josep Obrer. 
 - :email: Contact me on jserravives@cifpfbmoll.eu or josepsv17@gmail.com
 
 ### I'm familiar with:
